@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d87cfe2.css",
+    "main.css": "/static/css/main.5f147a0b.css",
     "main.js": "/static/js/main.40dfcb35.js",
     "static/media/audia1.jpg": "/static/media/audia1.efb07460824549a7bf64.jpg",
     "static/media/bmw320.jpg": "/static/media/bmw320.cb6fb98cf650e82cecc3.jpg",
@@ -48,11 +48,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.2d87cfe2.css.map": "/static/css/main.2d87cfe2.css.map",
+    "main.5f147a0b.css.map": "/static/css/main.5f147a0b.css.map",
     "main.40dfcb35.js.map": "/static/js/main.40dfcb35.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d87cfe2.css",
+    "static/css/main.5f147a0b.css",
     "static/js/main.40dfcb35.js"
   ]
 }
